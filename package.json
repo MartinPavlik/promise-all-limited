@@ -1,0 +1,36 @@
+{
+  "name": "@satankebab/promise-all-limited",
+  "version": "1.0.0",
+  "description": "Promise all with limited concurrency",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinPavlik/promise-all-limited.git"
+  },
+  "keywords": [
+    "async",
+    "promise",
+    "promse all",
+    "parallel limit"
+  ],
+  "author": "Martin Pavlik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinPavlik/promise-all-limited/issues"
+  },
+  "homepage": "https://github.com/MartinPavlik/promise-all-limited#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.7.7",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-typescript": "^7.12.7",
+    "@types/jest": "^26.0.19",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3",
+    "typescript": "^4.1.3"
+  }
+}
