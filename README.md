@@ -49,3 +49,6 @@ try {
 }
 ```
 or any way you prefer.
+
+## Sponsor
+This package is sponsored by [ScreenManager - digital signage platform](https://screenmanager.tech).
